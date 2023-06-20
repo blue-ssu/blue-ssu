@@ -31,13 +31,6 @@ const Description = styled.p`
     font-size: 16px;
 `;
 
-const URL = styled.p`
-    color: rgba(255, 255, 255, 0.5);
-    font-family: "Noto Sans KR", sans-serif;
-    font-weight: 400;
-    font-size: 14px;
-`;
-
 const GithubURL = styled.a`
     color: rgba(255, 255, 255, 0.5);
     font-family: "Noto Sans KR", sans-serif;
